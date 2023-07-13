@@ -1,13 +1,10 @@
-body {
-    max-width: 500px;
-    background-color: antiquewhite;
-}
+
 div {
-    max-width: 500px;
-    height: fit-content;
+    width: 500px;
+    margin: auto;
     border: 1px solid black;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 10px;
+    background-color: antiquewhite;
 }
 h1 {
     text-align: center;
